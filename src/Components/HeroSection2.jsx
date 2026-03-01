@@ -201,12 +201,21 @@ const HeroSection2 = () => {
 
           <a
             className="relative z-10"
-            href={`mailto:${links.email}?subject=Project inquiry (Web / AI)&body=Hi,%0D%0A%0D%0AI would like to discuss a project with you.`}
+            href={links.linkedin}
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <button className="px-8 md:px-10 py-3 md:py-4 bg-white text-gray-900 font-for-body text-sm md:text-base font-bold rounded-xl shadow-xl hover:bg-gray-100 hover:scale-105 active:scale-95 transition-all duration-300">
-              Let's build together →
+              Connect on LinkedIn →
             </button>
           </a>
+
+          <p className="relative z-10 mt-6 font-for-body text-gray-400 text-sm md:text-base">
+            Or let's talk via email:{' '}
+            <a href="mailto:shaik.arshad.work123@gmail.com" className="text-white hover:text-purple-400 hover:underline transition-colors duration-300 font-medium">
+              shaik.arshad.work123@gmail.com
+            </a>
+          </p>
         </motion.div>
 
       </div>
