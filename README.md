@@ -1,39 +1,37 @@
-🚀 Arshad's Developer Portfolio
+###Arshad's Developer Portfolio
 
-Welcome to my personal developer portfolio repository!
-This project showcases my skills, projects, and tech stack using a modern, responsive, and animated UI built with React and Tailwind CSS.
+Welcome to my personal portfolio website repository!
+This project represents my skills, projects, and passion for frontend development, built using modern web technologies with a strong focus on UI/UX and smooth animations.
 
-🔗 Live Demo: (Add your deployed link here)
+# Live Demo
+
+🔗 Live Website: (Add your deployed link here)
 📂 Repository: https://github.com/Arshad1231/Portfolio-v1
 
-✨ Features
+## About The Project
 
-⚡ Modern and clean UI
+This portfolio was designed and developed to:
 
-🎨 Styled with Tailwind CSS
+Showcase my frontend development skills
 
-🎬 Smooth animations using Framer Motion
+Present my projects in a clean and interactive way
 
-📱 Fully responsive design
+Demonstrate responsive design principles
 
-🧠 Interactive Hero Section
+Implement smooth animations and modern UI practices
 
-🖼️ Custom Assets Context
+Strengthen my personal developer brand
 
-💼 Projects Showcase
-
-📬 Contact Section
+The website is fully responsive and optimized for different screen sizes.
 
 🛠️ Tech Stack
 
-React.js
+React.js – Component-based UI development
 
-Tailwind CSS
+Tailwind CSS – Utility-first modern styling
 
-Framer Motion
+Framer Motion – Smooth animations and transitions
 
-React Icons
+React Icons – Clean and scalable icons
 
-Context API
-
-Vite
+Context API – Global state management
