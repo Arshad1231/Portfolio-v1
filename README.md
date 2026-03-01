@@ -1,9 +1,9 @@
-###Arshad's Developer Portfolio
+# Arshad's Developer Portfolio
 
 Welcome to my personal portfolio website repository!
 This project represents my skills, projects, and passion for frontend development, built using modern web technologies with a strong focus on UI/UX and smooth animations.
 
-# Live Demo
+## Live Demo
 
 🔗 Live Website: (Add your deployed link here)
 📂 Repository: https://github.com/Arshad1231/Portfolio-v1
@@ -24,7 +24,7 @@ Strengthen my personal developer brand
 
 The website is fully responsive and optimized for different screen sizes.
 
-🛠️ Tech Stack
+## Tech Stack
 
 React.js – Component-based UI development
 
